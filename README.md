@@ -1,1 +1,1 @@
-This is a project completed as part of The Odin Project. The aim of the project is to create a clone of the Google homepage.
+The aim of the project is to create a clone of the Google homepage. This is from The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
